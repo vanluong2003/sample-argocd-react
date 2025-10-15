@@ -7,6 +7,6 @@ resources:
 patches:
   - path: patch-deploy.yaml
 images:
-  - name: ghcr.io/your-org/react-nginx-lab
-    newName: ghcr.io/your-org/react-nginx-lab
+  - name: nhutlm1/react-nginx-lab
+    newName: nhutlm1/react-nginx-lab
     newTag: 1.0.0

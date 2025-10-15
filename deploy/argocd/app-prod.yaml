@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/your-org/react-nginx-argocd-lab.git
+    repoURL: https://github.com/vanluong2003/sample-argocd-react.git
     targetRevision: main
     path: deploy/overlays/prod
   destination:
