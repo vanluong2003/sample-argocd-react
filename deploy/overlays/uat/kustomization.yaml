@@ -9,4 +9,4 @@ patches:
 images:
   - name: nhutlm1/react-nginx-lab
     newName: nhutlm1/react-nginx-lab
-    newTag: 1.0.0
+    newTag: 1.0.2
